@@ -21,12 +21,15 @@
     "dotenv": "^17.3.1",
     "express": "^5.2.1",
     "openai": "^6.32.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
     "stripe": "^21.0.1"
   },
   "devDependencies": {
     "@types/cors": "^2.8.19",
     "@types/express": "^5.0.6",
     "@types/node": "^25.5.0",
+    "@types/react": "^19.2.14",
     "nodemon": "^3.1.14",
     "prisma": "^7.5.0",
     "ts-node": "^10.9.2",
